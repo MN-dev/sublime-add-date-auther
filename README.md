@@ -1,6 +1,11 @@
 # sublime-add-date-auther
 automatic update date in sublime
 
+  /** 
+ *@auther 
+ *@huntereyes93@gmail.com 
+ *2016-11-18 16:56:47 
+  **/
 
 
 # Preferences > Key Bindings- User
@@ -10,7 +15,7 @@ automatic update date in sublime
 ]
 
 
-# add_date.py
+#  add_date.py
 
 import datetime, getpass
 import sublime, sublime_plugin
